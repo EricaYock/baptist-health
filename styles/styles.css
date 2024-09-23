@@ -13,7 +13,7 @@
 :root {
   /* colors */
   --link-color: #001A71;
-  --link-hover-color: #136ff6;
+  --link-hover-color: #00B040;
   --background-color: white;
   --light-color: #eee;
   --dark-color: #ccc;
@@ -63,6 +63,7 @@ body {
   font-size: var(--body-font-size-m);
   margin: 0;
   font-family: var(--body-font-family);
+  font-weight: 100;
   line-height: 40px;
   color: rgb(25, 25, 25);
   background-color: var(--background-color);
